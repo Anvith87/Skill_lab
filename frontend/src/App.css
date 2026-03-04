@@ -1,0 +1,11 @@
+/* App.css — Clean Production Setup */
+
+#root {
+  min-height: 100vh;
+}
+
+/* Optional: smooth font rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
